@@ -1,1 +1,1 @@
-Extensions cords based on Raspberry Pico W baord
+Extensions cords based on Raspberry Pico W board
