@@ -1,1 +1,1 @@
-Remotely controlled extensions cords based on MQTT and Bluetooth
+Remotely controlled extension cords with MQTT and Bluetooth
